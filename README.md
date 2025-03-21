@@ -22,3 +22,7 @@ public class OlaMundo{
     }
 }
 ```
+
+## Mascote do Java
+
+![Mascote do Java](./duke.jpg)
