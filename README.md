@@ -1,4 +1,4 @@
-# Apreendendo Markdown
+# Aprendendo Markdown
 
 Para deixar em **negrito** e em *itálico*.
 
